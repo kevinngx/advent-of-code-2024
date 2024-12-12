@@ -36,8 +36,8 @@ fun main() {
                     // Remove previous
 
                     // Remove current
-                    // Remove next
 
+                    // Remove next
 
                     return@forEachLine
                 }
@@ -49,11 +49,11 @@ fun main() {
 }
 
 fun getDirection(a: Int, b: Int): direction {
-    if (a < b) {
-        return direction.INCREASING
+    return if (a < b) {
+        direction.INCREASING
     } else if (a > b) {
-        return direction.DECREASING
+        direction.DECREASING
     } else {
-        return direction.EQUAL
+        direction.EQUAL
     }
 }

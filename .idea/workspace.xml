@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7c2d2b3-0c5c-4bcc-89ec-79f67b33fb8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day-01-historian-hysteria/HistorianHysteria.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day-02-red-nosed-reports/RedNosedReports.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day-02-red-nosed-reports/input_data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day-02-red-nosed-reports/test_data.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_01_list_distance/input_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/day-01-historian-hysteria/input_data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_01_list_distance/list_distance.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_01_list_distance/test_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/day-01-historian-hysteria/test_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day-02-red-nosed-reports/RedNosedReports.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/day-02-red-nosed-reports/RedNosedReports.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,28 +35,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin.HistorianHysteriaKt.executor": "Run",
-    "Kotlin.List_distanceKt.executor": "Run",
-    "Kotlin.List_similarityKt.executor": "Run",
-    "Kotlin.RedNosedReportsKt.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/kevinngx/Documents/GitHub/advent-of-code-2024",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.HistorianHysteriaKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.List_distanceKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.List_similarityKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.RedNosedReportsKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kevinngx/Documents/GitHub/advent-of-code-2024&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -107,6 +100,7 @@
       <workItem from="1733283475019" duration="2097000" />
       <workItem from="1733401341666" duration="2172000" />
       <workItem from="1733439538583" duration="6132000" />
+      <workItem from="1733875314851" duration="1395000" />
     </task>
     <servers />
   </component>
