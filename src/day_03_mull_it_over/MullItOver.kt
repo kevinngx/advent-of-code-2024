@@ -8,8 +8,8 @@ class MullItOver {
 }
 
 fun main() {
-    val INPUT_FILE_NAME = "src/day-03-mull-it-over/input_data.txt"
-//    val INPUT_FILE_NAME = "src/day-03-mull-it-over/test_data.txt"
+    val INPUT_FILE_NAME = "src/day_03_mull_it_over/input_data.txt"
+//    val INPUT_FILE_NAME = "src/day_03_mull_it_over/test_data.txt"
     solve(INPUT_FILE_NAME)
 }
 
