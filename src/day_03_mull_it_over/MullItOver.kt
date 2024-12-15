@@ -1,4 +1,4 @@
-package `day-03-mull-it-over`
+package day_03_mull_it_over
 
 import java.io.File
 

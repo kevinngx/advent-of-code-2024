@@ -1,4 +1,4 @@
-package `day-01-historian-hysteria`
+package day_01_historian_hysteria
 
 import java.io.File
 import kotlin.math.abs

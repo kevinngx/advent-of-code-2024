@@ -1,4 +1,4 @@
-package `day-02-red-nosed-reports`
+package day_02_red_nosed_reports
 
 import java.io.File
 import kotlin.math.abs
